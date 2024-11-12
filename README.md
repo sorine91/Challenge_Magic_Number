@@ -13,4 +13,4 @@ Enfin il affiche le résultat probable par rapport à la signature du fichier.
 ```bash
 python3 main.py
 # Entrez le fichier -> ENTREZ ICI L'ENDROIT DU FICHIER À TESTER
-``
+```
